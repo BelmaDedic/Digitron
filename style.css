@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(221, 218, 218);
+}
+
+h2 {
+    margin-top: 1%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.content {
+    margin-top: 8%;
+}
+
+input {
+    margin-top: 10px;
+    padding: 4px;
+    font-size: large;
+    color: black;
+}
+
+button {
+    margin-right: 25px;
+    margin-top: 30px;
+    background-color: rgb(223, 90, 218);
+    border-radius: 12px;
+    border: none;
+    height: 30px;
+    font-size: large;
+}
+
+#sum {
+    width: 90px;
+}
+
+#subtract {
+    width: 120px;
+}
+
+#multiplication {
+    width: 130px;
+}
+
+#division {
+    width: 90px;
+}
+
+#delete {
+    width: 105px;
+    background-color: brown;
+    margin-top: 40px;
+}
